@@ -38,6 +38,6 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
-
+start.txt
 
 angular-cli.json
