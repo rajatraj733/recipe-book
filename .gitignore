@@ -1,5 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
-
+start.txt
+*.log
 # compiled output
 /dist
 /tmp
@@ -38,6 +39,6 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
-start.txt
+./start.txt
 
 angular-cli.json
